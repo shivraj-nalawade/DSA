@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivraj-nalawade/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivraj-nalawade/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/shivraj-nalawade/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/shivraj-nalawade/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/shivraj-nalawade/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/shivraj-nalawade/DSA/tree/master/0875-koko-eating-bananas) |
 ## Sorting
@@ -94,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shivraj-nalawade/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/shivraj-nalawade/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
