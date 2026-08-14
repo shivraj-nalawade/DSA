@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivraj-nalawade/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivraj-nalawade/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/shivraj-nalawade/DSA/tree/master/0234-palindrome-linked-list) |
+| [0443-string-compression](https://github.com/shivraj-nalawade/DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/shivraj-nalawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivraj-nalawade/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shivraj-nalawade/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/shivraj-nalawade/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivraj-nalawade/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/shivraj-nalawade/DSA/tree/master/0443-string-compression) |
 ## Divide and Conquer
 |  |
 | ------- |
