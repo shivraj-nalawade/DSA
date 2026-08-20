@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shivraj-nalawade/DSA/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/shivraj-nalawade/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivraj-nalawade/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shivraj-nalawade/DSA/tree/master/0146-lru-cache) |
 | [0409-longest-palindrome](https://github.com/shivraj-nalawade/DSA/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/shivraj-nalawade/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/shivraj-nalawade/DSA/tree/master/0496-next-greater-element-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/shivraj-nalawade/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/shivraj-nalawade/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivraj-nalawade/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/shivraj-nalawade/DSA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/shivraj-nalawade/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivraj-nalawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shivraj-nalawade/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/shivraj-nalawade/DSA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/shivraj-nalawade/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Math
 |  |
@@ -202,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shivraj-nalawade/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivraj-nalawade/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
