@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shivraj-nalawade/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/shivraj-nalawade/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivraj-nalawade/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/shivraj-nalawade/DSA/tree/master/0994-rotting-oranges) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/shivraj-nalawade/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivraj-nalawade/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivraj-nalawade/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shivraj-nalawade/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/shivraj-nalawade/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/shivraj-nalawade/DSA/tree/master/0994-rotting-oranges) |
 | [2965-find-missing-and-repeated-values](https://github.com/shivraj-nalawade/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Interactive
 |  |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivraj-nalawade/DSA/tree/master/0146-lru-cache) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/shivraj-nalawade/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
